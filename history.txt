@@ -1,0 +1,15 @@
+*   f983d46 Merge feature1 and feature2 into main
+|\  
+| * d17a02c feature2 change
+* |   b5e4d58 Merge feature1 resolve
+|\ \  
+| * | 3cbffb9 feature1 change
+| |/  
+* / 896e2ed Новый коммит в main после отката
+|/  
+* 761fee9 add notes.txt 5
+* e2f8aa0 add notes.txt 4
+* 916853e add notes.txt 3
+* d75c147 add notes.txt 2
+* 2b42850 add notes.txt 1
+* b016384 init
